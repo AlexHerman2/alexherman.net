@@ -1,9 +1,8 @@
-baseurl = "http://alexherman.net"
+baseurl = "https://alexherman.net"
 title = "The Subtle Art of Waiting for Lunch"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
-languageCode = "en-us"
 
 [author]
     name = "Alex Herman"
@@ -13,7 +12,6 @@ languageCode = "en-us"
   Description = "Technology, Tutorials, Dad Jokes"
   Author = "Alex Herman"
   email = "alex.thehulk.herman@gmail.com"
-  Ganalytics = "XX-00000000-0"
 
 [[params.social]]
     title = "twitter"

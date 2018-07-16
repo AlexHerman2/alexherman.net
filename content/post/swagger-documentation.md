@@ -1,16 +1,9 @@
 +++
 title = "Defining a New API with Swagger"
 description = "When winging it no longer cuts it"
-tags = [
-    "swagger",
-    "api",
-    "development",
-]
-date = "2019-07-09"
-categories = [
-    "Development",
-    "API",
-]
+tags = ["swagger", "api", "development"]
+date = "2018-07-08T18:49:26-04:00"
+categories = ["Development","API"]
 menu = "main"
 +++
 
