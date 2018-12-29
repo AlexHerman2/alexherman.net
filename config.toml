@@ -3,6 +3,7 @@ title = "The Subtle Art of Waiting for Lunch"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
+googleAnalytics = "UA-123523507-1"
 
 [author]
     name = "Alex Herman"
