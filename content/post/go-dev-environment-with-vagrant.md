@@ -4,7 +4,6 @@ description = "In which we set up a sharable Go dev environment"
 tags = ["development", "go", "golang", "vagrant", "vim", "delve"]
 date = "2018-08-05T18:49:26-04:00"
 categories = ["Development","Go","Vim"]
-menu = "main"
 +++
 Setting up a Go Development Environment
 No matter what you do or where you work, new technologies are constantly coming along that change (for better or worse) what you do. Languages, frameworks, SRE stuff, CI pipelines, it seems almost endless.

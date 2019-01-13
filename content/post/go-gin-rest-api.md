@@ -4,7 +4,6 @@ description = "In which we set up a simple REST API"
 tags = ["development", "go", "golang", "gin", "rest", "api"]
 date = "2018-12-28T18:49:26-04:00"
 categories = ["Development","Go","REST API"]
-menu = "main"
 +++
 # Creating an API with Go and Gonic/Gin
 In a previous post, we documented the contract of an example API with Swagger. Now, let’s actually create it. For this, we’ll be using Go with the Gin framework.

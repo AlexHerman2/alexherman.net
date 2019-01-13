@@ -4,7 +4,6 @@ description = "Say what you mean, mean what you say"
 tags = ["json-schema", "json", "schema", "api", "development"]
 date = "2018-07-16T18:49:26-04:00"
 categories = ["Development","API"]
-menu = "main"
 +++
 
 # Getting Started with JSON Schema
